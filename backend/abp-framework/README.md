@@ -5,3 +5,4 @@ ABP Framework is a modern application development framework for building modular
 ## Tutorials
 
 - [Intro to ABP Framework: What It Is and Why You Need It]()
+- [Getting Started with ABP Studio & CLI]()
